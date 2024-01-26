@@ -1,0 +1,6 @@
+@OpenAI_ChatGPT_HostAddress = http://localhost:5082
+
+GET {{OpenAI_ChatGPT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
